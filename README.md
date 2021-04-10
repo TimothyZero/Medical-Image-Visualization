@@ -1,4 +1,4 @@
-#  Vtktools
+#  VTKtools
 
 ### Description
 
