@@ -4,18 +4,18 @@ with open("README.md", "r", encoding='utf-8') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="vtktools",
+    name="VTKtools",
     version="0.0.1",
     author="timothy",
     author_email="thyzyfx@qq.com",
     description="3d show tools",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="none",
+    url="https://github.com/TimothyZero/VTKtools",
     packages=['vtktools'],
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: Apache License",
         "Operating System :: OS Independent",
     ],
 )
