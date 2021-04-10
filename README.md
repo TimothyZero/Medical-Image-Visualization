@@ -1,4 +1,4 @@
-#  VTKtools
+#  MedView
 
 ### Description
 
@@ -10,9 +10,9 @@ A lib for medical image visualization via vtk.
 
 #### vtkShow or vtkShowNotebook
 
-![img](./images/vtkshow.png )
+![img](https://raw.githubusercontent.com/TimothyZero/Medical-Image-Visualization/main/images/vtkshow.png)
 
 
 #### vtkWindowView or vtkWindowViewNotebook
 
-![img](./images/vtkwindowview.png )
+![img](https://raw.githubusercontent.com/TimothyZero/Medical-Image-Visualization/main/images/vtkwindowview.png)

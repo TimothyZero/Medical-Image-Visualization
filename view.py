@@ -2,7 +2,7 @@ import os
 import pickle
 import sys
 
-from vtktools import vtkShow, vtkWindowView, loadITK
+from medview import vtkShow, vtkWindowView, loadITK
 
 data, dim, spacing, origin = loadITK(sys.argv[1])
 print(sys.argv[1])

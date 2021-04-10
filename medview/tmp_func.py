@@ -18,7 +18,7 @@ import os
 import pickle
 import sys
 
-from vtktools import vtkShow
+from medview import vtkShow
 from vtkViewClass import vtkWindowView
 
 # mode = '1'
