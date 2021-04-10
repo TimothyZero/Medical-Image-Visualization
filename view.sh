@@ -1,0 +1,1 @@
+python_path you_dirpath/view.py "$1"
